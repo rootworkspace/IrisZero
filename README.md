@@ -31,5 +31,4 @@ Made this because of need for a small dev board with USB HID capabilities.
 |10 |1       |AP2112K-3.3TRG1(MS)|U2        |SOT-23-5_L2.9-W1.6-P0.95-LS2.7-BR|     |AP2112K-3.3TRG1(MS)|MSKSEMI(美森科)       |C22365427    |LCSC    |
 |11 |1       |TYPE-C 16P QTGM027 |USB1      |USB-C-SMD_TYPE-C-16P-QTGM027     |     |TYPE-C 16P QTGM027 |SHOU HAN(首韩)       |C2681552     |LCSC    |
 
-
-**Total: ~$9.09**
+**Total: ~$9.09** + 2$ for PCBs
