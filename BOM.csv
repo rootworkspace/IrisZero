@@ -8,8 +8,9 @@ PCB Fabrication,Surface Finish,HASL (with lead),5,,
 PCB Fabrication,Copper Weight,1 oz,5,,
 PCB Fabrication,Via Process,Tented / 0.3mm (0.4/0.45mm),5,,
 PCB Fabrication,Build Time,24 Hours,5,,
-PCBA Assembly,Assembly Side,Both Sides,2,$100.21,Includes setup fees, expensive because of loading fees/setup fees, will get a hot plate next time
+PCBA Assembly,Assembly Side,Both Sides,2,$100.21,"Includes setup fees, expensive because of loading fees/setup fees, will get a hot plate next time"
 PCBA Assembly,Components Cost,BOM Parts,2,($18.18),Included in PCBA total
 PCBA Assembly,Solder Paste,High Temp,2,,
 PCBA Assembly,Build Time,3 - 4 Days,2,,
 Total Order,Project Total,PCB + PCBA,,$104.21,Excluding Shipping
+
