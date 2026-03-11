@@ -16,6 +16,25 @@ Made this because of need for a small dev board with USB HID capabilities.
 </details>
 
 ## Bill of materials
+
+| Category | Item / Parameter | Specification | Quantity | Price | Notes |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **PCB Fabrication** | **Gerber File** | Gerber_PCB1_2026-02-21_Y40 | 5 | **$4.00** | |
+| | **Layers / Material** | 2 Layers / FR-4 TG135 | | | |
+| | **Dimensions** | 71.5 mm * 71.06 mm | | | |
+| | **Appearance** | Black Board / White Silkscreen | | | |
+| | **Thickness** | 1.6mm | | | |
+| | **Surface Finish** | HASL (with lead) | | | |
+| | **Copper Weight** | 1 oz | | | |
+| | **Via Process** | Tented / 0.3mm (0.4/0.45mm) | | | |
+| | **Build Time** | 24 Hours | | | |
+| **PCBA Assembly** | **Assembly Side** | Both Sides | 2 | **$100.21** | Includes setup fees |
+| | **Components Cost** | BOM Parts | | ($18.18) | Included in PCBA total |
+| | **Solder Paste** | High Temp | | | |
+| | **Build Time** | 3 - 4 Days | | | |
+| **Total Order** | **Project Total** | **PCB + PCBA** | | **$104.21** | Excluding Shipping |
+
+## Components
 ### To find each component use the Supplier Part field at https://www.lcsc.com/
 |No.|Quantity|Comment            |Designator|Footprint                        |Value|Manufacturer Part  |Manufacturer       |Supplier Part|Supplier|
 |---|--------|-------------------|----------|---------------------------------|-----|-------------------|-------------------|-------------|--------|
@@ -31,4 +50,4 @@ Made this because of need for a small dev board with USB HID capabilities.
 |10 |1       |AP2112K-3.3TRG1(MS)|U2        |SOT-23-5_L2.9-W1.6-P0.95-LS2.7-BR|     |AP2112K-3.3TRG1(MS)|MSKSEMI(美森科)       |C22365427    |LCSC    |
 |11 |1       |TYPE-C 16P QTGM027 |USB1      |USB-C-SMD_TYPE-C-16P-QTGM027     |     |TYPE-C 16P QTGM027 |SHOU HAN(首韩)       |C2681552     |LCSC    |
 
-**Total: ~$9.09** + 2$ for PCBs
+**Total for components: ~$9.09**
