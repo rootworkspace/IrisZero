@@ -1,3 +1,15 @@
-Item,Amount,Price,Notes
-PCBs,5,$4.0,
-"PCBA ",2 (minimum),$100.21,"Expensive because of loading fees, will get a hot plate next time, also includes component cost ($18.18)"
+Category,Item / Parameter,Specification,Quantity,Price,Notes
+PCB Fabrication,Gerber File,Gerber_PCB1_2026-02-21_Y40,5,$4.00,
+PCB Fabrication,Layers / Material,2 Layers / FR-4 TG135,5,,
+PCB Fabrication,Dimensions,71.5 mm * 71.06 mm,5,,
+PCB Fabrication,Appearance,Black Board / White Silkscreen,5,,
+PCB Fabrication,Thickness,1.6mm,5,,
+PCB Fabrication,Surface Finish,HASL (with lead),5,,
+PCB Fabrication,Copper Weight,1 oz,5,,
+PCB Fabrication,Via Process,Tented / 0.3mm (0.4/0.45mm),5,,
+PCB Fabrication,Build Time,24 Hours,5,,
+PCBA Assembly,Assembly Side,Both Sides,2,$100.21,Includes setup fees, expensive because of loading fees/setup fees, will get a hot plate next time
+PCBA Assembly,Components Cost,BOM Parts,2,($18.18),Included in PCBA total
+PCBA Assembly,Solder Paste,High Temp,2,,
+PCBA Assembly,Build Time,3 - 4 Days,2,,
+Total Order,Project Total,PCB + PCBA,,$104.21,Excluding Shipping
