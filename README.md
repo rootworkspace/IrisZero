@@ -17,6 +17,7 @@ Made this because of need for a small dev board with USB HID capabilities.
 
 ## Bill of materials
 
+### PCB/PCBA
 | Category | Item / Parameter | Specification | Quantity | Price | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **PCB Fabrication** | **Gerber File** | Gerber_PCB1_2026-02-21_Y40 | 5 | **$4.00** | |
@@ -34,8 +35,8 @@ Made this because of need for a small dev board with USB HID capabilities.
 | | **Build Time** | 3 - 4 Days | | | |
 | **Total Order** | **Project Total** | **PCB + PCBA** | | **$104.21** | Excluding Shipping |
 
-## Components
-### To find each component use the Supplier Part field at https://www.lcsc.com/
+### Components
+#### To find each component use the Supplier Part field at https://www.lcsc.com/
 |No.|Quantity|Comment            |Designator|Footprint                        |Value|Manufacturer Part  |Manufacturer       |Supplier Part|Supplier|
 |---|--------|-------------------|----------|---------------------------------|-----|-------------------|-------------------|-------------|--------|
 |1  |1       |1uF                |C1        |C0402                            |1uF  |CL05A105KA5NQNC    |SAMSUNG(三星)        |C52923       |LCSC    |
