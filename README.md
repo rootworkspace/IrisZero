@@ -16,7 +16,7 @@ Made this because of need for a small dev board with USB HID capabilities.
 
 ## Bill of materials
 
-### PCB/PCBA
+### PCB/Components
 | Category | Item / Parameter | Specification | Quantity | Price | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **JLCPCB** | | | | | |
