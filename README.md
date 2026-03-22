@@ -12,7 +12,6 @@ Made this because of need for a small dev board with USB HID capabilities.
     <img width="1190" height="845" alt="SCH_Iris Zero_1-P1_2026-02-21" src="https://github.com/user-attachments/assets/cf33a4a9-b746-4603-9493-5b2bea3cf0a4" />
     <img width="415" height="672" alt="image" src="https://github.com/user-attachments/assets/a5e14693-01f7-49aa-afc9-e92b5cd64995" />
     <img width="406" height="667" alt="image" src="https://github.com/user-attachments/assets/3d1d895e-ecd9-44bb-9f38-7ba4fc58c873" />
-    <img width="1844" height="860" alt="image" src="https://github.com/user-attachments/assets/fa46c51e-87e8-4150-bd27-fda06fb33cc2" />
 </details>
 
 ## Bill of materials
@@ -20,20 +19,12 @@ Made this because of need for a small dev board with USB HID capabilities.
 ### PCB/PCBA
 | Category | Item / Parameter | Specification | Quantity | Price | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **PCB Fabrication** | **Gerber File** | Gerber_PCB1_2026-02-21_Y40 | 5 | **$4.00** | |
-| | **Layers / Material** | 2 Layers / FR-4 TG135 | | | |
-| | **Dimensions** | 71.5 mm * 71.06 mm | | | |
-| | **Appearance** | Black Board / White Silkscreen | | | |
-| | **Thickness** | 1.6mm | | | |
-| | **Surface Finish** | HASL (with lead) | | | |
-| | **Copper Weight** | 1 oz | | | |
-| | **Via Process** | Tented / 0.3mm (0.4/0.45mm) | | | |
-| | **Build Time** | 24 Hours | | | |
-| **PCBA Assembly** | **Assembly Side** | Both Sides | 2 | **$100.21** | Includes setup fees |
-| | **Components Cost** | BOM Parts | | ($18.18) | Included in PCBA total |
-| | **Solder Paste** | High Temp | | | |
-| | **Build Time** | 3 - 4 Days | | | |
-| **Total Order** | **Project Total** | **PCB + PCBA** | | **$104.21** | Excluding Shipping |
+| **JLCPCB** | | | | | |
+| | **PCB Fabrication** | Gerber_PCB1_2026-02-21_Y40 | 5 (minimal) | **$2.10** | |
+| | **Stencils** | Gerber_PCB1_2026-02-21_Y40 | 2 (both sides) | **$7.07** | |
+| **LCSC** | | | | | |
+| | **Components Cost** | BOM Parts | | $9.23 | |
+| **Total Order** | **Project Total** | **PCB + LCSC** | | **$104.21** | Excluding Shipping |
 
 ### Components
 #### To find each component use the Supplier Part field at https://www.lcsc.com/
@@ -51,4 +42,4 @@ Made this because of need for a small dev board with USB HID capabilities.
 |10 |1       |AP2112K-3.3TRG1(MS)|U2        |SOT-23-5_L2.9-W1.6-P0.95-LS2.7-BR|     |AP2112K-3.3TRG1(MS)|MSKSEMI(美森科)       |C22365427    |LCSC    |
 |11 |1       |TYPE-C 16P QTGM027 |USB1      |USB-C-SMD_TYPE-C-16P-QTGM027     |     |TYPE-C 16P QTGM027 |SHOU HAN(首韩)       |C2681552     |LCSC    |
 
-**Total for components: ~$9.09**
+**Total for components: ~$9.23**
