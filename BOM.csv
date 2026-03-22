@@ -2,4 +2,4 @@ Category,Item / Parameter,Specification,Quantity,Price,Notes
 JLCPCB,PCB Fabrication,Gerber_PCB1_2026-02-21_Y40,5 (minimal),$2.10,
 JLCPCB,Stencils,Gerber_PCB1_2026-02-21_Y40,2 (both sides),$7.07,
 LCSC,Components Cost,BOM Parts,,$9.23,
-Total Order,Project Total,PCB + LCSC,,$104.21,Excluding Shipping
+Total Order,Project Total,PCB + LCSC,,$18.4,Excluding Shipping
