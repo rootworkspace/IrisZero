@@ -1,17 +1,5 @@
 Category,Item / Parameter,Specification,Quantity,Price,Notes
-PCB Fabrication,Gerber File,Gerber_PCB1_2026-02-21_Y40,5,$4.00,
-PCB Fabrication,Layers / Material,2 Layers / FR-4 TG135,5,,
-PCB Fabrication,Dimensions,71.5 mm * 71.06 mm,5,,
-PCB Fabrication,Appearance,Black Board / White Silkscreen,5,,
-PCB Fabrication,Thickness,1.6mm,5,,
-PCB Fabrication,Surface Finish,HASL (with lead),5,,
-PCB Fabrication,Copper Weight,1 oz,5,,
-PCB Fabrication,Via Process,Tented / 0.3mm (0.4/0.45mm),5,,
-PCB Fabrication,Build Time,24 Hours,5,,
-PCBA Assembly,Assembly Side,Both Sides,2,$100.21,"Includes setup fees, expensive because of loading fees/setup fees, will get a hot plate next time"
-PCBA Assembly,Components Cost,BOM Parts,2,$9.09 ($18.18 for 2),Included in PCBA total
-PCBA Assembly,Solder Paste,High Temp,2,,
-PCBA Assembly,Build Time,3 - 4 Days,2,,
-Total Order,Project Total,PCB + PCBA,,$104.21,Excluding Shipping
-
-
+JLCPCB,PCB Fabrication,Gerber_PCB1_2026-02-21_Y40,5 (minimal),$2.10,
+JLCPCB,Stencils,Gerber_PCB1_2026-02-21_Y40,2 (both sides),$7.07,
+LCSC,Components Cost,BOM Parts,,$9.23,
+Total Order,Project Total,PCB + LCSC,,$104.21,Excluding Shipping
