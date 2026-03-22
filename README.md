@@ -24,7 +24,7 @@ Made this because of need for a small dev board with USB HID capabilities.
 | | **Stencils** | Gerber_PCB1_2026-02-21_Y40 | 2 (both sides) | **$7.07** | |
 | **LCSC** | | | | | |
 | | **Components Cost** | BOM Parts | | $9.23 | |
-| **Total Order** | **Project Total** | **PCB + LCSC** | | **$104.21** | Excluding Shipping |
+| **Total Order** | **Project Total** | **PCB + LCSC** | | **$18.4** | Excluding Shipping |
 
 ### Components
 #### To find each component use the Supplier Part field at https://www.lcsc.com/
